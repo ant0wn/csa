@@ -1,0 +1,45 @@
+
+    In this tricky game we have randomized a word out of a given wordlist.
+    Your job is to guess that word.
+    On each guess we will provide you number of characters you were correct with,
+    without any indication upon what characters or their position.
+    You have multiple limitations though:
+    - On each run a new word is randomized.
+    - You have 15 tries.
+    - We are limiting the connection to 30 seconds.
+
+    To block bruteforce we will show you the next cat and wait...
+                                _
+                               | \
+                               | |
+                               | |
+         |\                    | |
+        /, ~\                 / /
+        X     `-.....-------./ /
+        ~-. ~  ~              |
+           \             /    |    <------------- Louie The Cat
+            \  /_     ___\   /
+            | /\ ~~~~~   \ |
+            | | \        || |
+            | |\ \       || )
+           (_/ (_/      ((_/
+
+    
+GO !
+
+sending krzvctoxdnya
+received 7
+sending vpzytcirhnwj
+received 5
+sending sdiocxqvurnl
+received 7
+sending rvzbmcyxdgsl
+received 5
+sending oaqglxdpcwnt
+received 7
+sending gkjnlqruxvat
+received 5
+sending qxwrsheazdno
+received csa{4ll_th3sE_3v1l_c475_g3n3r4T1nG_w0rd5}
+found sneaky word: qxwrsheazdno, and it took me 6 rounds.
+the flag is csa{4ll_th3sE_3v1l_c475_g3n3r4T1nG_w0rd5}

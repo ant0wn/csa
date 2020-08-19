@@ -1,0 +1,14 @@
+#Introduction
+Given a list of random words, find the correct word by q&a-ing the server.
+
+#Server details and rules
+
+domain: tricky-guess.csa.checkpoint.com 2222
+
+rules:
+
+- 15 queries
+- 30 seconds session
+- new word every for every session
+- delayed listening for brute force mitigation
+
